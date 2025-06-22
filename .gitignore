@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/My First Project with Java/*
+!/My First Project with Java/task/
+/My First Project with Java/task/*
+!/My First Project with Java/task/src
